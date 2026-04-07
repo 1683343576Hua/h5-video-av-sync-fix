@@ -15,8 +15,8 @@
 // @allFrames    true
 // @homepageURL  https://github.com/1683343576Hua/h5-video-av-sync-fix
 // @supportURL   https://github.com/1683343576Hua/h5-video-av-sync-fix/issues
-// @updateURL    https://raw.githubusercontent.com/1683343576Hua/h5-video-av-sync-fix/main/h5-video-av-sync-fix.user.js
-// @downloadURL  https://raw.githubusercontent.com/1683343576Hua/h5-video-av-sync-fix/main/h5-video-av-sync-fix.user.js
+// @updateURL    https://github.com/1683343576Hua/h5-video-av-sync-fix/raw/refs/heads/main/h5-video-av-sync-fix.user.js
+// @downloadURL  https://github.com/1683343576Hua/h5-video-av-sync-fix/raw/refs/heads/main/h5-video-av-sync-fix.user.js
 // ==/UserScript==
 
 (function() {
