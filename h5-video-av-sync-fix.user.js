@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         音频延迟调节器 | 音画同步修复（毫秒级精度+智能检测）
 // @name:en      Audio Delay Adjuster | A/V Sync Fix (ms Precision + Auto Detection)
-// @namespace    https://greasyfork.org/zh-CN/users/替换为你的用户ID
+// @namespace    https://github.com/1683343576Hua
 // @version      4.1.0
 // @description  专门解决H5视频音频比画面快的问题，支持0.001秒毫秒级精度调节，智能检测延迟，全网站兼容，支持iframe内嵌视频，自动记忆用户设置
 // @description:en  Fix H5 video audio ahead of picture, support 0.001s millisecond precision adjustment, auto delay detection, full site compatible, iframe video support, auto save user settings
-// @author       替换为你的作者昵称
+// @author       1683343576Hua
 // @match        *://*/*
 // @grant        GM_addStyle
 // @grant        GM_getValue
@@ -13,8 +13,8 @@
 // @license      MIT
 // @run-at       document-start
 // @allFrames    true
-// @homepageURL  替换为你的主页（如GitHub仓库地址，没有可删除此行）
-// @supportURL   替换为你的反馈地址（如GitHub Issues地址，没有可删除此行）
+// @homepageURL  https://github.com/1683343576Hua/h5-video-av-sync-fix
+// @supportURL   https://github.com/1683343576Hua/h5-video-av-sync-fix/issues
 // ==/UserScript==
 
 (function() {
