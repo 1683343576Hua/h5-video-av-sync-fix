@@ -3,7 +3,7 @@
 // @name:en      Audio Delay Adjuster | A/V Sync Fix (ms Precision + Auto Detection)
 // @namespace    https://github.com/1683343576Hua
 // @version      4.1.0
-// @description  专门解决H5视频音频比画面快的问题，支持0.001秒毫秒级精度调节，智能检测延迟，全网站兼容，支持iframe内嵌视频，自动记忆用户设置
+// @description  专门解决H5视频音频比画面快的问题，支持0.001秒毫秒级精度调节，支持手都检测延迟，全网站兼容，支持iframe内嵌视频，自动记忆用户设置
 // @description:en  Fix H5 video audio ahead of picture, support 0.001s millisecond precision adjustment, auto delay detection, full site compatible, iframe video support, auto save user settings
 // @author       1683343576Hua
 // @match        *://*/*
